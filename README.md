@@ -15,7 +15,7 @@ Create a file named `.env` in the repository's root directory with the following
 ```txt
 # Replace the values with your desired host name and port
 
-HOST=localhost
+HOSTNAME=localhost
 PORT=8080
 ```
 
@@ -53,7 +53,7 @@ where
 
 For example:
 
-```txt
+```sh
 GET /api/7/2024/10/1
 ```
 
